@@ -13,8 +13,8 @@ Some pervy AI shit, surely. Don't call him Shirley
 ## Agenda
 
 * Installing Python and Hello World
-* Projects and Dependencies
 * Source Control
+* Projects and Dependencies
 * Functions and Variables
 * Types
 * Conditions
